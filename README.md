@@ -60,7 +60,7 @@ smart-pdf-insight-generator/
   [https://smart-pdf-i-gen.vercel.app/](https://smart-pdf-i-gen.vercel.app/)
 
 - **Or call the API directly:**  
-  [https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/](https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/)
+  [https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/]([https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/](https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/Prod/analyze-pdf/))
 
 ### 2. Deploy on AWS Lambda
 
