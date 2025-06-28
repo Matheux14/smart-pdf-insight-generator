@@ -60,7 +60,7 @@ smart-pdf-insight-generator/
   [https://smart-pdf-i-gen.vercel.app/](https://smart-pdf-i-gen.vercel.app/)
 
 - **Or call the API directly:**  
-  [https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/]([https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/](https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/Prod/analyze-pdf/))
+  [[https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/](https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/Prod/analyze-pdf/)]([[https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/](https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/Prod/analyze-pdf/)](https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/Prod/analyze-pdf/))
 
 ### 2. Deploy on AWS Lambda
 
@@ -132,4 +132,4 @@ This project is licensed under the MIT License.
 ## 🔗 Live Demo & API
 
 - Web App: [https://smart-pdf-i-gen.vercel.app/](https://smart-pdf-i-gen.vercel.app/)
-- API: [https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/](https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/)
+- API: [[https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/](https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/Prod/analyze-pdf/)]([[https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/](https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/Prod/analyze-pdf/)](https://yyqocvqwpk.execute-api.us-east-1.amazonaws.com/Prod/analyze-pdf/))
