@@ -68,8 +68,6 @@ Can be connected to:
 A simple wrapper around your LLM of choice can be added inside `app.py`.
 
 ---
-You can test the application here : https://smart-pdf-i-gen.vercel.app/
---
 
 ## 🛡️ License
 
